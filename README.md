@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo_highmed_verde.webp" alt="Score 100 PageSpeed" width="600" />
+
   
   <br />
   <br />
